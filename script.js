@@ -4,7 +4,6 @@ request.send();
 request.onload=function(){
     var result=JSON.parse(request.response);
 
-// Day 07:ARRAY METHODS
 // 1) Solving problems using array functions on the rest countries' data (https://restcountries.com/v3.1/all).
 // a. Get all the countries from the Asia continent /region using the Filter function
 
